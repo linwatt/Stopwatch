@@ -1,0 +1,627 @@
+{
+ "sections": [
+  {
+   "id": "c16ff74a-9e17-8f7d-5f10-dca39b53e2ec",
+   "title": "Activity Lifecycle",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Activity-Lifecycle-c16f.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c6d14a67-02a4-c0e9-0eec-f35ad56eab47",
+   "title": "Apps and Activities",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Apps-and-Activities-c6d1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0583ba26-6e74-ddbf-f932-28e9f3c94242",
+   "title": "Activities in Other Apps",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Activities-in-Other-Apps-0583.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0745ff5d-4e9a-976e-7f35-ffcb4b88ee05",
+   "title": "Processes and Activities",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Processes-and-Activities-0745.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c4eb5b19-fa93-0ce2-a2e4-0a1ee0828840",
+   "title": "Stopwatch App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Stopwatch-App-c4eb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "be644024-b503-f237-acf5-976e1b5de325",
+   "title": "Create New Project",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Create-New-Project-be64.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e1fc0dd0-df3a-848e-4568-b8f0d9e7a1cd",
+   "title": "Layout XML",
+   "files": [
+    {
+     "path": "app/src/main/res/layout/activity_stopwatch.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Layout-XML-e1fc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fbd1af38-57cc-6fb3-a1b3-218c64cc516e",
+   "title": "Add to strings.xml",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Add-to-strings-xml-fbd1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a594a2c4-bb06-b87b-b470-c32831a01a56",
+   "title": "Activity",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Activity-a594.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ec4672c0-b090-fbd2-ab5b-cf011602ccd8",
+   "title": "New Method",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Method-ec46.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f88c15b1-0cc0-e59a-b431-2c8da1a3fd59",
+   "title": "StopwatchActivity",
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/stopwatch/StopwatchActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/StopwatchActivity-f88c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "360ef4e9-09fa-37ab-a515-978a05ca97bb",
+   "title": "runTimer()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/runTimer---360e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5f1e89af-b59a-8a27-a6c5-07c10567156c",
+   "title": "Handler",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Handler-5f1e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fb802330-0990-5258-e366-33d84b5246e0",
+   "title": "postDelayed()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/postDelayed---fb80.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a8749034-c0b3-e0ae-2d75-289cbe5b39e1",
+   "title": "Update runTimer()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Update-runTimer---a874.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f69e6cbf-cf8d-798e-b97f-0251ff7813bc",
+   "title": "Update StopwatchActivity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Update-StopwatchActivity-f69e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a53172c8-0acc-8422-cb28-5281fa76ce12",
+   "title": "Test Drive the app!",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Drive-the-app--a531.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8f6c7813-de49-4786-dd2e-22fb10e25af7",
+   "title": "Uh-oh...",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Uh-oh----8f6c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "688c479b-3b45-5b7d-bac4-11b7dfac2018",
+   "title": "Why?",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Why--688c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7eeeb4c3-2910-b753-0f12-b2475e99e855",
+   "title": "Screen Rotation and Activity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Screen-Rotation-and-Activity-7eee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0aacc1a9-7fb8-a5bf-c54b-eaa2b114b5bf",
+   "title": "Device Config",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Device-Config-0aac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c995392b-67a4-33fb-4092-c80727cf612c",
+   "title": "Simple Activity Lifecycle",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-Activity-Lifecycle-c995.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "849035aa-9234-3764-beab-52f50d8917ce",
+   "title": "Simple Activity Lifecycle and Methods",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-Activity-Lifecycle-and-Methods-8490.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "be21d9c2-171e-16fa-a0d4-ec0a6257d71b",
+   "title": "android.app.Activity Class",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/android-app-Activity-Class-be21.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8d81a0f9-d9de-03bc-a8a1-40b8bd3cc655",
+   "title": "Now What?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Now-What--8d81.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b5578c45-39cf-bde4-2ce2-1bda97dfc292",
+   "title": "onConfigurationChanged Method",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/onConfigurationChanged-Method-b557.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0a2d3314-0ded-268a-4722-542caafdbc53",
+   "title": "onSaveInstanceState Method",
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/stopwatch/StopwatchActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/onSaveInstanceState-Method-0a2d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "aa27ec59-3757-5187-2f9c-7305847f0b74",
+   "title": "Write onSaveInstanceState",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Write-onSaveInstanceState-aa27.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c7dc3009-fa54-889a-a0a0-8bbb4b5652ff",
+   "title": "bundle.get",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/bundle-get-c7dc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c0eef7d0-6b2b-5611-b39c-f468943c2dcd",
+   "title": "Rotation Test",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Rotation-Test-c0ee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "eb4aeab8-c186-4a67-9d08-8dff000ae27f",
+   "title": "Other Activity Methods",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Other-Activity-Methods-eb4a.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b7be3bac-3763-0e5d-fcb1-53985547b9c4",
+   "title": "onStart, onStop, onRestart",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/onStart--onStop--onRestart-b7be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bafcfa99-8192-a70c-c854-090d4e225580",
+   "title": "Activity Lifecycle (onStart, onStop)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Activity-Lifecycle--onStart--onStop--bafc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cad0a564-c158-ab24-5057-61200a9608c6",
+   "title": "Updates to Stopwatch app",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Updates-to-Stopwatch-app-cad0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "687355da-6b68-38d4-a491-68bb98fbd711",
+   "title": "onStop()",
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/stopwatch/StopwatchActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/onStop---6873.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "df9a14b9-1e31-15a4-7b84-8e36beed100b",
+   "title": "onStart()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/onStart---df9a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c6976583-7398-4e1b-1317-08465419b979",
+   "title": "Updated StopwatchActivity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Updated-StopwatchActivity-c697.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a03d6f31-264a-e452-eb5a-9b2fb940375e",
+   "title": "App Functionality",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/App-Functionality-a03d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5c54c7c5-9d9d-135b-27e9-e3c31237d2bb",
+   "title": "Paused Activities",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Paused-Activities-5c54.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ffba1a6d-d04b-57d9-4089-0b1e9782488d",
+   "title": "onPause() and onResume()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/onPause---and-onResume---ffba.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dfc42209-f1d5-f50c-8098-df7346ae2140",
+   "title": "Add to App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Add-to-App-dfc4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "291bc832-12f8-0e8f-d2b5-ef47a54323bf",
+   "title": "onPause()",
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/stopwatch/StopwatchActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/onPause---291b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4235da0a-a650-2a1d-2c77-dd6ef123c635",
+   "title": "New App Functionality",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-App-Functionality-4235.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3c95849b-23de-ab95-ab48-b90eaa6e4f86",
+   "title": "Complete Code",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Complete-Code-3c95.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dc6fd372-71d0-2777-a13a-96fbbe82bdde",
+   "title": "Methods",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Methods-dc6f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6afac74f-85de-1e19-bc0d-6e1dfbc89ecf",
+   "title": "Demo App",
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Demo-App-6afa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4e2488ae-5046-331b-92a0-ce1e49ea8230",
+   "title": "Recap - Activity Lifecycles",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap---Activity-Lifecycles-4e24.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
